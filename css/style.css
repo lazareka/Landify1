@@ -1,0 +1,70 @@
+.d-inline-block{
+	display: inline-block;
+}
+.ver-align{
+	vertical-align: middle;
+}
+.li1{
+	color: #18191F
+}
+.float-l{
+	float: left;
+}
+.float-r{
+	float: right;
+}
+
+/*header*/
+.logo{
+	margin-left: 265px;
+	margin-top:22px;
+}
+.limarg{
+	margin-left: 32px;
+	margin-top: 22px;
+}
+.google{
+	margin-left: 300px;
+}
+.apple{
+	margin-left: 12px; 
+}
+.h1{
+	font-size: 72px;
+	width: 630px;
+	margin-left: 200px
+}
+.get-started{
+	background-color: #8C30F5;
+	border-radius: 8px;
+	width: 196px;
+	height: 62px;
+	padding-left: 50px;
+	padding-top: 20px;
+	font-size: 20px;
+	color: white;
+	margin-left: 200px
+
+	
+}
+.text1{
+	width: 630px;
+	margin-left: 300px;
+	margin-top: 150px;
+}
+.iphone-x{
+	margin-left: 300px;
+	margin-top: 50px;
+}
+.text{
+	width: 630px;
+	margin-left: 100px;
+}
+.Social1{
+	margin-right:64px;
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+.s1{
+	margin-left: 364px;
+}
